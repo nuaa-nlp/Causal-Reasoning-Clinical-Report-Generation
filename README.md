@@ -3,7 +3,7 @@
 # Clinical NLP
 
 |ID|Name|Author|Link|Conference|
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 |1|Interpretability on clinical analysis from Pattern Disentanglement Insight|Anonymous|[link](https://openreview.net/forum?id=1mnGR8UW-7OO)|-|
 |2|CBLUE: A Chinese Biomedical Language Understanding EvaluationBenchmark|Anonymous|[link](https://openreview.net/forum?id=ZHJ0kw4Ry77)|-|
 |3|A New Dataset for Summarizing Radiology Reports|Anonymous|[link](https://openreview.net/forum?id=hVhvWq5onI)|-|
