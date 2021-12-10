@@ -1,6 +1,6 @@
 # Causal Reasoning & Clinical NLP
 
-# Causal Reasoning
+## Causal Reasoning
 |ID|Name|Author|Link|Conference|
 |:---:|:---:|:---:|:---:|:---:|
 |1|CRAFT: A Benchmark for Causal Reasoning About Forces and inTeractions|Anonymous|[link](https://openreview.net/forum?id=B1cgyz67D9E)|-|
@@ -9,7 +9,7 @@
 |4|ROCK: A Causal Inference Framework for Reasoning about Commonsense Causality|Anonymous|[link](https://openreview.net/forum?id=sEd4EJK-QVl)|-|
 |5|Causal Transformers: Improving the Robustness on Spurious Correlations|Anonymous|[link](https://openreview.net/forum?id=ATRbfIyW6sI)|-|
 
-# Clinical NLP
+## Clinical NLP
 
 |ID|Name|Author|Link|Conference|
 |:---:|:---:|:---:|:---:|:---:|
